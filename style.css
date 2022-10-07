@@ -75,10 +75,10 @@ header a:hover{
 #showcase{
   max-height:800px;
   background:url('./showcase.jpg.jpg') no-repeat 0 -206px;
-   background-image:centre;
+  background-image:centre;
   text-align:center;
   color:hsl(0, 3%, 7%);
-  margin-left:170px;
+  margin-left:150px;
 }
 
 #showcase h1{
@@ -89,7 +89,7 @@ header a:hover{
 
 #showcase p{
   font-size:30px;
-   max-width:50px;
+   max-width:20px;
 }
 
 /* Newsletter */
